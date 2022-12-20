@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae5e41d3.css",
-    "main.js": "/static/js/main.c440da1c.js",
+    "main.js": "/static/js/main.51c4ae3f.js",
     "static/media/logo.png": "/static/media/logo.331abccdf03d61b4f9e2.png",
     "static/media/team-2.jpg": "/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
     "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
@@ -14,10 +14,10 @@
     "static/media/logo-asana.svg": "/static/media/logo-asana.5c9ced4f9006cfb2d4c10f905cf6d310.svg",
     "index.html": "/index.html",
     "main.ae5e41d3.css.map": "/static/css/main.ae5e41d3.css.map",
-    "main.c440da1c.js.map": "/static/js/main.c440da1c.js.map"
+    "main.51c4ae3f.js.map": "/static/js/main.51c4ae3f.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5e41d3.css",
-    "static/js/main.c440da1c.js"
+    "static/js/main.51c4ae3f.js"
   ]
 }
