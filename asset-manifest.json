@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ea1eaf4.css",
-    "main.js": "/static/js/main.226c2f02.js",
+    "main.css": "/static/css/main.6c95366b.css",
+    "main.js": "/static/js/main.2d2339bf.js",
     "static/media/logo.png": "/static/media/logo.331abccdf03d61b4f9e2.png",
     "static/media/team-2.jpg": "/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
     "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo-spotify.svg": "/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg",
     "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
     "static/media/logo-asana.svg": "/static/media/logo-asana.5c9ced4f9006cfb2d4c10f905cf6d310.svg",
-    "main.2ea1eaf4.css.map": "/static/css/main.2ea1eaf4.css.map",
-    "main.226c2f02.js.map": "/static/js/main.226c2f02.js.map"
+    "main.6c95366b.css.map": "/static/css/main.6c95366b.css.map",
+    "main.2d2339bf.js.map": "/static/js/main.2d2339bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ea1eaf4.css",
-    "static/js/main.226c2f02.js"
+    "static/css/main.6c95366b.css",
+    "static/js/main.2d2339bf.js"
   ]
 }
